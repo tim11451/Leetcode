@@ -13,5 +13,6 @@ class Solution(object):
                     return [i,j]
         return solution                
 
-# Loser's solution. Pure brute force, just letting you memorize the experience that being slapped by primary school teacher.
-# Unfortunately, weak.
+# Loser's solution. Pure brute force, just letting me memorize the experience that being slapped by primary school teacher.
+# Unfortunate, weak
+# also nov, very cold that day
