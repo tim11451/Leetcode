@@ -16,3 +16,5 @@ class Solution(object):
             else:
                 stack.append(i)
         return len(stack) == 0
+# pure academic plagiary
+# disappointed
